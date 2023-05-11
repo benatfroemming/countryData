@@ -1,0 +1,27 @@
+{
+    "countries": [
+{
+    "name": "aw",
+    "independent": true,
+    "ISO": "AW/ABW",
+    "Continent": "North America",
+    "Capital": "Oranjestad",
+    "flag": "The flag of Aruba consists of a light blue background with two narrow parallel yellow stripes near the bottom and a four-pointed red star outlined in white in the upper left-side corner. The blue color represents the sky and sea surrounding the island, while the yellow stripes symbolize the sun and the island's status as part of the Kingdom of the Netherlands. The red star with its white outline represents the four cardinal directions and also stands for the island itself, which is known as \"One Happy Island\" due to its beautiful beaches, friendly people, and relaxed atmosphere. The proportions of the flag are 2:3.",
+    "description": "Aruba is a constituent country of the Kingdom of the Netherlands located in the mid-south of the Caribbean Sea, north of Venezuela and northwest of Curaçao. It is part of the ABC islands and has a dry climate and arid landscape. Aruba is one of four countries that form the Kingdom of the Netherlands and has a population of approximately 108,000 people and a total area of 179 square kilometers. The official languages are Dutch and Papiamento, and the capital is Oranjestad. The country's economy is largely dependent on tourism, accounting for more than 90% of the GDP, with additional industries including oil refining, financial services, and transport. The climate is warm and sunny throughout the year, and the landscape is characterized by a dry, arid environment.",
+    "mapLink": "https://www.google.com/maps/place/Aruba/@12.5185104,-70.0498623,12z/data=!3m1!4b1!4m6!3m5!1s0x8e8538cfe25a77db:0xf16a8a3e89818c2f!8m2!3d12.52111!4d-69.968338!16zL20vMGoxMQ",
+    "wikiLink": "https://es.wikipedia.org/wiki/Aruba"
+},
+{
+    "name": "Aruba",
+    "independent": true,
+    "ISO": "AW/ABW",
+    "Continent": "North America",
+    "Capital": "Oranjestad",
+    "flag": "The flag of Aruba consists of a light blue background with two narrow parallel yellow stripes near the bottom and a four-pointed red star outlined in white in the upper left-side corner. The blue color represents the sky and sea surrounding the island, while the yellow stripes symbolize the sun and the island's status as part of the Kingdom of the Netherlands. The red star with its white outline represents the four cardinal directions and also stands for the island itself, which is known as \"One Happy Island\" due to its beautiful beaches, friendly people, and relaxed atmosphere. The proportions of the flag are 2:3.",
+    "flagCode": "aw",
+    "description": "Aruba is a constituent country of the Kingdom of the Netherlands located in the mid-south of the Caribbean Sea, north of Venezuela and northwest of Curaçao. It is part of the ABC islands and has a dry climate and arid landscape. Aruba is one of four countries that form the Kingdom of the Netherlands and has a population of approximately 108,000 people and a total area of 179 square kilometers. The official languages are Dutch and Papiamento, and the capital is Oranjestad. The country's economy is largely dependent on tourism, accounting for more than 90% of the GDP, with additional industries including oil refining, financial services, and transport. The climate is warm and sunny throughout the year, and the landscape is characterized by a dry, arid environment.",
+    "mapLink": "https://www.google.com/maps/place/Aruba/@12.5185104,-70.0498623,12z/data=!3m1!4b1!4m6!3m5!1s0x8e8538cfe25a77db:0xf16a8a3e89818c2f!8m2!3d12.52111!4d-69.968338!16zL20vMGoxMQ",
+    "wikiLink": "https://es.wikipedia.org/wiki/Aruba"
+  }
+]}
+  
